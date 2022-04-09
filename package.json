@@ -14,7 +14,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.5",
     "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.14",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.6.6",
     "vue-carousel-3d": "^0.1.23",
     "vue-monthly-picker": "^0.2.6",
